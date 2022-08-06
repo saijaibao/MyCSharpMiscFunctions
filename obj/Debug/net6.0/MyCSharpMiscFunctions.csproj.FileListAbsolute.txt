@@ -1,0 +1,15 @@
+/home/ken/projects/dotnet/MyCSharpMiscFunctions/bin/Debug/net6.0/MyCSharpMiscFunctions
+/home/ken/projects/dotnet/MyCSharpMiscFunctions/bin/Debug/net6.0/MyCSharpMiscFunctions.deps.json
+/home/ken/projects/dotnet/MyCSharpMiscFunctions/bin/Debug/net6.0/MyCSharpMiscFunctions.runtimeconfig.json
+/home/ken/projects/dotnet/MyCSharpMiscFunctions/bin/Debug/net6.0/MyCSharpMiscFunctions.dll
+/home/ken/projects/dotnet/MyCSharpMiscFunctions/bin/Debug/net6.0/MyCSharpMiscFunctions.pdb
+/home/ken/projects/dotnet/MyCSharpMiscFunctions/obj/Debug/net6.0/MyCSharpMiscFunctions.csproj.AssemblyReference.cache
+/home/ken/projects/dotnet/MyCSharpMiscFunctions/obj/Debug/net6.0/MyCSharpMiscFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/home/ken/projects/dotnet/MyCSharpMiscFunctions/obj/Debug/net6.0/MyCSharpMiscFunctions.AssemblyInfoInputs.cache
+/home/ken/projects/dotnet/MyCSharpMiscFunctions/obj/Debug/net6.0/MyCSharpMiscFunctions.AssemblyInfo.cs
+/home/ken/projects/dotnet/MyCSharpMiscFunctions/obj/Debug/net6.0/MyCSharpMiscFunctions.csproj.CoreCompileInputs.cache
+/home/ken/projects/dotnet/MyCSharpMiscFunctions/obj/Debug/net6.0/MyCSharpMiscFunctions.dll
+/home/ken/projects/dotnet/MyCSharpMiscFunctions/obj/Debug/net6.0/refint/MyCSharpMiscFunctions.dll
+/home/ken/projects/dotnet/MyCSharpMiscFunctions/obj/Debug/net6.0/MyCSharpMiscFunctions.pdb
+/home/ken/projects/dotnet/MyCSharpMiscFunctions/obj/Debug/net6.0/MyCSharpMiscFunctions.genruntimeconfig.cache
+/home/ken/projects/dotnet/MyCSharpMiscFunctions/obj/Debug/net6.0/ref/MyCSharpMiscFunctions.dll
